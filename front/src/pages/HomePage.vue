@@ -136,60 +136,6 @@
             <q-item-label caption> William RABOLIN </q-item-label>
           </q-item-section>
         </q-item>
-
-        <br />
-        <q-separator spaced />
-        <br />
-
-        <q-item-label class="text-bold text-grey-8"
-          >Suggested Profiles</q-item-label
-        >
-        <br />
-
-        <q-item>
-          <q-item-section avatar>
-            <q-avatar size="48px">
-              <img
-                src="https://media.licdn.com/dms/image/D4E03AQE7C9N1nFWSdA/profile-displayphoto-shrink_200_200/0/1682278946404?e=2147483647&v=beta&t=bAnXHY6KG8ImnhzPNI3vij29NoT7k6wJvBrfkYMw63w"
-              />
-            </q-avatar>
-          </q-item-section>
-
-          <q-item-section>
-            <q-item-label class="text-bold">hadrien.vilos</q-item-label>
-            <q-item-label caption> Hadrien VILOS </q-item-label>
-          </q-item-section>
-        </q-item>
-
-        <q-item>
-          <q-item-section avatar>
-            <q-avatar size="48px">
-              <img
-                src="https://media.licdn.com/dms/image/D4E03AQErYGdTwI4qxA/profile-displayphoto-shrink_800_800/0/1679670250137?e=2147483647&v=beta&t=lWWS51XAgyQkrGHuyuSvbIGZGAHSy5za2B9I0_BGZ0w"
-              />
-            </q-avatar>
-          </q-item-section>
-
-          <q-item-section>
-            <q-item-label class="text-bold">mimi.lgc</q-item-label>
-            <q-item-label caption> Emilie Lannegrace </q-item-label>
-          </q-item-section>
-        </q-item>
-
-        <q-item>
-          <q-item-section avatar>
-            <q-avatar size="48px">
-              <img
-                src="https://media.licdn.com/dms/image/D4D03AQGua6hmpzWLWw/profile-displayphoto-shrink_200_200/0/1673018382306?e=2147483647&v=beta&t=MjwkMHVPm7YXs1Gog2VezIfTFh-sUR4Yp2H1Pdt_dK0"
-              />
-            </q-avatar>
-          </q-item-section>
-
-          <q-item-section>
-            <q-item-label class="text-bold">leo.dlny</q-item-label>
-            <q-item-label caption> {{ username }} </q-item-label>
-          </q-item-section>
-        </q-item>
       </div>
     </div>
   </q-page>
