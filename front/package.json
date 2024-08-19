@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@quasar/extras": "^1.16.4",
-    "axios": "^1.6.8",
+    "axios": "^1.7.4",
     "dotenv-webpack": "^8.1.0",
     "joi": "^17.13.1",
     "md-gum-polyfill": "^1.0.0",
